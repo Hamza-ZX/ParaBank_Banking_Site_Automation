@@ -1,7 +1,7 @@
 # 🏦 Parabank Automation Testing Suite
 
 This repository contains an **end-to-end automated testing suite** for the [Parabank demo banking application](https://parabank.parasoft.com/parabank/index.htm), built using **Playwright**.  
-It automates complete banking flows — from user registration to transactions and database cleanup.
+It automates complete banking flows from user registration to transactions and database cleanup.
 
 ---
 
