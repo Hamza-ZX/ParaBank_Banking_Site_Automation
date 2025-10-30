@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "@playwright/test": "^1.54.1",
+    "@types/node": "^24.1.0",
+    "cypress": "^13.13.3"
+  },
+  "scripts": {},
+  "dependencies": {
+    "dayjs": "^1.11.18"
+  }
+}
